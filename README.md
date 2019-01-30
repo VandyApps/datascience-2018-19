@@ -1,5 +1,8 @@
 # VandyApps - Data Science Sessions 2018-19
 
+## Get started
+Open `setup.md`.
+
 ## Schedule
 1. **Week 1**: Setup and getting started
 2. **Week 2**: Data manipulation basics
