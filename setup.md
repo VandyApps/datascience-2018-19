@@ -18,10 +18,8 @@ Setting up your environment is one of the harder steps in starting data science 
 
 ## A. The easiest way
 If you want to get started immediately, you can just head over to [Microsoft Azure Notebooks](https://notebooks.azure.com). This is actually a pretty good service and hosts Jupyter Notebook servers for you. 
-1. **Sign In** on the top-left with a Microsoft account. (You can also hit "Get Started" on the main page to look at some samples.)
-2. Hit **Libraries** on the header and make a new library. A library is just a folder on this platform.
-3. In a library, hit **New**. You want **Item Type** to be *Python 3.6 Notebook* or whichever Python version you prefer. Give the notebook a name like **test.ipynb** and create it.
-4. Click on the new notebook in your library. Within a minute, you should have a Jupyter Notebook up and running. 
+
+Go here and press *Clone*: https://notebooks.azure.com/kennli/projects/vh-datascience-beginners
 
 ## B. The traditional way (skip if you took method A)
 Note that a locally installed environment is faster than the Azure Notebooks, but they are not painfully slow and should be enough. However, if you want more customization with the Jupyter runtime or just want this on your local machine, you can follow the steps below. 
