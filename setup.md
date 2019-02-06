@@ -1,5 +1,4 @@
-# How to start Python data science 10 minutes
-*For the hackers at VandyHacks 2018*
+# How to start Python data science in 10 minutes 
 
 # Preface 
 This guide is to help you get set up with a popular environment for data science in Python and to introduce some next steps.
