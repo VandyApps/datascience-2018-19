@@ -15,10 +15,11 @@ Open `setup.md`.
 ### Special topics
 #### To be covered later in the course based on interest
 - Deep Learning
-- Advanced EDA
+- Advanced EDA/Cool visualization
 - Databases
 - GIS
 - Web applications
+- Public health data 
 
 ### Communication
 - Join our slack: [vandyapps.slack.com](vandyapps.slack.com)
